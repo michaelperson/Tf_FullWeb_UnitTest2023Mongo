@@ -1,0 +1,13 @@
+Les librairies pour tester l'API :
+**********************************
+
+ • Permet de faire des Tests
+mocha
+chai
+
+ • Permet au test d'interagir avec le server express
+chai-http
+
+ • Permet de "Mock" la database
+   Objectif : Simuler l'utilisation de la DB MongoDB
+mongodb-memory-server
